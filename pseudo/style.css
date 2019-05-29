@@ -1,0 +1,35 @@
+
+
+.buttons {
+    background-color: #ddd;
+    border: 10 solid black;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 25px 4px 25px;
+    border-radius: 16px;
+    width: 250px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+a {
+    font-size: 50px;
+    height: 25px;
+    color: red;
+}
+
+a:hover {
+    font-weight: bold;
+}
+a:active { 
+    color: yellow;}
+
+a:visited {
+    color: green;}
+
+a:focus {
+    color: blue;
+}
